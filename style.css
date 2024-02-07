@@ -6,4 +6,5 @@ h1, p {
 }
 .center {
   margin: auto;
+  padding: 10px;
 }
