@@ -6,4 +6,5 @@ h1, p {
 }
 .center {
   text-align: center;
+  padding: 15px;
 }
