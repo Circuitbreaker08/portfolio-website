@@ -31,16 +31,13 @@ ul {
   float: left;
   width: 45%;
   padding: 15px;
+  align-items: center;
 }
 
 .row:after {
   content: "";
   display: table;
   clear: both;
-}
-
-div.feature-panel {
-  align-items: center;
 }
 
 img.feature-panel {
