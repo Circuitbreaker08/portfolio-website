@@ -52,6 +52,9 @@ img.feature-panel {
 }
 
 h2.feature-panel {
+  border-style: solid;
+  border-color: white;
+  border-width: 15px;
   width: 150px;
   text-align: center;
 }
