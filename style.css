@@ -40,10 +40,18 @@ ul {
   clear: both;
 }
 
+.feature-panel {
+  border-style: solid;
+  border-color: white;
+  border-width: 15px;
+}
+
 img.feature-panel {
   height: 150px;
   width: 150px;
-  border-style: solid;
-  border-color: black;
-  border-width: 15px;
+}
+
+h2.feature-panel {
+  width: 150px;
+  text-align: center;
 }
