@@ -40,9 +40,8 @@ ul {
 }
 
 .feature-panel {
-  outline: 2px;
-  outline-color: black;
-  background-color: white;
+  outline: 5px;
+  outline-color: white;
 }
 
 img.feature-panel {
