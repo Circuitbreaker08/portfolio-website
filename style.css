@@ -43,6 +43,6 @@ ul {
 img.feature-panel {
   height: 150px;
   width: 150px;
-  outline-color: black;
-  outline-width: 15px;
+  border-color: black;
+  border-width: 15px;
 }
