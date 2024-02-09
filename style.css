@@ -40,11 +40,6 @@ ul {
 }
 
 .feature-panel {
-  outline: 5px;
-  outline-color: white;
-}
-
-img.feature-panel {
   height: 50px;
   width: 50px;
 }
