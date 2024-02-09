@@ -39,7 +39,11 @@ ul {
   clear: both;
 }
 
-.feature-panel {
+div.feature-panel {
+  align-items: center;
+}
+
+img.feature-panel {
   height: 50px;
   width: 50px;
 }
