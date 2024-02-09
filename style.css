@@ -44,3 +44,8 @@ ul {
   outline-color: black;
   background-color: white;
 }
+
+img.feature-panel {
+  height: 50px;
+  width: 50px;
+}
